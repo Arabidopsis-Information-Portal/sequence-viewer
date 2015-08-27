@@ -1,0 +1,30 @@
+{
+  "name": "sequence-viewer-2",
+  "version": "0.0.2",
+  "main": "lib/sequence-viewer-modified.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msarmien/sequence-viewer.git"
+  },
+  "keywords": [
+    "sequence",
+    "nextprot",
+    "uniprot",
+    "protein",
+    "viewer"
+  ],
+  "authors": [
+    "Mathieu Schaeffer <mat.schaeff@gmail.com>",
+    "Calipho Team <ndu@isb-sib.ch>"
+  ],
+  "license": "GNU GPL v2",
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "handlebars": "x.x.x"
+  }
+}

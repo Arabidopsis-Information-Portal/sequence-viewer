@@ -1,7 +1,7 @@
 {
   "name": "sequence-viewer-2",
   "version": "0.0.2",
-  "main": "lib/sequence-viewer-modified.min.js",
+  "main": "lib/sequence-viewer.js",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -1,6 +1,6 @@
 {
   "name": "sequence-viewer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/sequence-viewer.min.js",
   "ignore": [
     "**/.*",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/calipho-sib/sequence-viewer.git"
+    "url": "https://github.com/Arabidopsis-Information-Portal/sequence-viewer.git"
   },
   "keywords": [
     "sequence",
